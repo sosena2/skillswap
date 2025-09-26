@@ -23,18 +23,22 @@ SkillSwap is an advanced Java application that allows users to exchange skills w
 
 🏠 Dashboard
 Browse and search for users based on skills.
-![](src/screenshots/dashboard.png)
+
+![](screenshots/dashboard.png)
 
 👤 Profile View
 See detailed information about a user.
-![](src/screenshots/profile-view.png)
+
+![](screenshots/profile-view.png)
 
 💬 Chat
 Real-time chat with multiple users at the same time.
-![](src/screenshots/chat.png)
+
+![](screenshots/chat.png)
 
 ✍️ Blog
 Create and read blogs on different topics.
-![](src/screenshots/blog.png)
+
+![](screenshots/blog.png)
 
 
